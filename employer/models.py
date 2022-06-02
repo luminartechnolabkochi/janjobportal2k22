@@ -44,3 +44,7 @@ class Jobs(models.Model):
 #Detail
 #Update
 #delete
+#
+
+
+#clothesShop
